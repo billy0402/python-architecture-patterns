@@ -1,6 +1,13 @@
-# python-template
+# python-architecture-patterns
 
-My Python template.
+A learning project from the book 'Architecture Patterns with Python' by Harry Percival, Bob Gregory.
+
+## Book
+
+- [Website](https://www.cosmicpython.com/)
+- [O'Reilly](https://www.oreilly.com/library/view/architecture-patterns-with/9781492052197/)
+- [Example code](https://github.com/cosmicpython/code)
+- [Book repo](https://github.com/cosmicpython/book)
 
 ## Development environment
 
@@ -34,7 +41,7 @@ $ mypy .
 
 If you have found a bug or have a request for additional functionality, please use the issue tracker on GitHub.
 
-https://github.com/billy0402/python-template/issues
+https://github.com/billy0402/python-architecture-patterns/issues
 
 ## License
 
