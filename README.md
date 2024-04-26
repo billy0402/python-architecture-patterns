@@ -37,6 +37,12 @@ $ flake8 .
 $ mypy .
 ```
 
+## Testing
+
+```shell
+$ pytest
+```
+
 ## Bugs and suggestions
 
 If you have found a bug or have a request for additional functionality, please use the issue tracker on GitHub.
