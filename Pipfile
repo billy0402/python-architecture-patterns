@@ -12,6 +12,7 @@ flake8-commas = "==2.1.0"
 flake8-quotes = "==3.4.0"
 mypy = "==1.10.0"
 yapf = "==0.40.2"
+pytest = "==8.1.1"
 types-requests = "==2.31.0.20240406"
 
 [requires]
